@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kalo-bikhkhov/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Kalo Bikhkhov](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kalo-bikhkhov/) |
+| **Get License** | [Music Rights & Licensing for Kalo Bikhkhov](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kalo-bikhkhov/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারে খুঁজি আমি তোমার উষ্ণ ছায়া.. তোমার ছায়া..
+> বুকের ভেতর জমছে শুধু এই মাতাল মায়া
+> শুকনো পাতা উড়ছে দেখো রাতের নিরালায়.. নিরালায়..
+> মন হারালো আজ তোমার ওই চেনা ইশারায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
